@@ -1,4 +1,4 @@
-# shell script for updating multple Query in database
+# shell script for updating multple Queries in a database
 #!/bin/sh
 echo "This program will update and insert multiple string in database"
 
