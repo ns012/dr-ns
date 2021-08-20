@@ -1,3 +1,4 @@
+# Mapping Data on worldmap from excel sheet
 # SARS CoV-2 sequence density on word map
 library(RColorBrewer)
 library(rworldmap)
