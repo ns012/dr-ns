@@ -15,11 +15,11 @@ To test run these scripts in the terminal, try:
 ```
 # Mapping Data on worldmap from excel sheet
 
-Rscript~ \path\script.R
+Rscript~ \path..\script.R
 
 # Plot for time series analysis 
 
-Rscript~ \path\r_script_timeseries.R
+Rscript~ \path..\r_script_timeseries.R
 
 ```
 ## Citation
